@@ -12,9 +12,9 @@
 
 - 24.09.01 ~ 12.20, 25 ~
 - 반찬 가게 픽업 플랫폼 '맘찬픽', '맘찬픽: 사장님' 제작
+- `react-native`, `emotion`, `react-query`, `zustand`
 - [Github](https://github.com/ummgoban)
 - [Homepage](https://ummgoban.com)
-- `react-native`, `emotion`, `react-query`, `zustand`
   
 
 ### UOSLIFE
