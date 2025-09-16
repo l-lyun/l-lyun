@@ -26,9 +26,12 @@
 
 ## Education
 
-- University Of Seoul B.S in Computer Science and Engineering
-- 19.03 ~ 
+- **University Of Seoul B.S in Computer Science and Engineering**
+  - 19.03 ~
 
+- **42seoul**
+  - 23.02 ~ 23.12
+     
 ## github
 
 <div align=center>
@@ -39,16 +42,9 @@
     <tr>
 <td>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=l-lyun)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-lyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=l-lyun" />
 
 </td>
-    </tr>
   </tbody>
 </table>
 
