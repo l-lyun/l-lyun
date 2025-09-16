@@ -2,7 +2,7 @@
 
 - Frontend engineer
 - skill: javascript/typescript, ReactJs, emotion
-- email: kimdohyun032@gmail.com
+- contact: kimdohyun032@gmail.com
 
 
 ## Project
