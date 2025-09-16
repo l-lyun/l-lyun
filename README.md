@@ -5,6 +5,7 @@
 - contact: kimdohyun032@gmail.com
 
 
+
 ## Project
 
 ### 24-2 Capstone Design
@@ -24,13 +25,16 @@
 - [Teampage](https://www.uoslife.team/) 🚧 개발 중
 - `react-native`, `react`, `vite`, `emotion`, `zotai`
 
+
 ## Education
+
 
 - **University Of Seoul B.S in Computer Science and Engineering**
   - 19.03 ~
 
 - **42seoul**
   - 23.02 ~ 23.12
+
      
 ## github
 
@@ -49,3 +53,11 @@
 </table>
 
 </div>
+
+## Band
+
+
+THRASH AL 24th Guitar 🎸
+- [YOUTUBE](https://www.youtube.com/watch?v=wh2rTudPcDs&ab_channel=ThrashAL)
+- 동대문구 대학 교류전 트로이카 1회 밴드 부문 우승
+- 2020 KT&G 상상유니브 집현전 밴드 부문 본선 진출 
