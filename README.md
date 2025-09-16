@@ -13,7 +13,7 @@
 - Platform application for selling side dish store inventory
 - [Github](https://github.com/ummgoban)
 - [Homepage](https://ummgoban.com)
-- `React Native`, `emotion`, `react-query`, `zustand`
+- `react-native`, `emotion`, `react-query`, `zustand`
   
 
 ### UOSLIFE
