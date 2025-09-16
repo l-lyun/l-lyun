@@ -21,7 +21,7 @@
 - 24.03 ~
 - Utility app for students at the University of Seoul
 - [App Store](https://apps.apple.com/kr/app/%EC%8B%9C%EB%8C%80%EC%83%9D-%EB%82%B4-%EC%86%90%EC%95%88%EC%9D%98-%EC%84%9C%EC%9A%B8%EC%8B%9C%EB%A6%BD%EB%8C%80%ED%95%99%EA%B5%90/id1514073192)
-- [Teampage](https://www.uoslife.team/)
+- [Teampage](https://www.uoslife.team/) 🚧 개발 중
 - `react-native`, `react`, `vite`, `emotion`, `zotai`
 
 ## Education
