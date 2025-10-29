@@ -36,6 +36,8 @@
 - 42seoul
   - 23.02 ~ 23.12
 
+- KT cloud TECH UP 1기
+  - 25.09 ~
      
 ## github
 
