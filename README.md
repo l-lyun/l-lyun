@@ -1,5 +1,5 @@
 ## 김도현 (l-lyun)
-
+- 서울시립대학교 컴퓨터과학부 졸업 예정
 - skills: Java, Spring, Typescript, ReactJs
 - contact: kimdohyun032@gmail.com
 
@@ -32,16 +32,14 @@
 - `react-native`, `react`, `vite`, `emotion`, `zotai`
 
 
-## Education
+## Acitvity
 
-- 서울시립대학교 컴퓨터과학부 졸업 예정
-  - 19.03 ~
-    
-- 42seoul
-  - 23.02 ~ 23.12
 
-- KT cloud TECH UP 백엔드 과정
-  - 25.09 ~
+THRASH AL 24th Guitar 🎸
+- [YOUTUBE](https://www.youtube.com/watch?v=wh2rTudPcDs&ab_channel=ThrashAL)
+- 동대문구 대학 교류전 트로이카 1회 밴드 부문 우승
+- 2020 KT&G 상상유니브 집현전 밴드 부문 본선 진출
+
      
 ## github
 
@@ -60,11 +58,3 @@
 </table>
 
 </div>
-
-## Activity
-
-
-THRASH AL 24th Guitar 🎸
-- [YOUTUBE](https://www.youtube.com/watch?v=wh2rTudPcDs&ab_channel=ThrashAL)
-- 동대문구 대학 교류전 트로이카 1회 밴드 부문 우승
-- 2020 KT&G 상상유니브 집현전 밴드 부문 본선 진출 
