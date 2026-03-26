@@ -21,7 +21,6 @@
 - 시대생 앱 내 재학생 미팅 매칭 서비스 **'시대팅 시즌6'** 제작
 - `react-native`, `react`, `vite`, `emotion`, `zotai`
 
-<br>
 
 ### KT Cloud Tech up
 - 25.09 ~ 26.04(진행중)
@@ -29,7 +28,6 @@
 - [Github](https://github.com/pain22value/back)
 - `java`, `spring`, `mysql`, `redis`, `kafka`
 
-<br>
 
 ### 캡스톤 디자인
 
