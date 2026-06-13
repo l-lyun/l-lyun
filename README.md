@@ -2,7 +2,7 @@
 - 서울시립대학교 컴퓨터과학부 졸업 예정
 - skills: Java, Spring, Typescript, ReactJs
 - contact: kimdohyun032@gmail.com
-
+- blog: https://to-the-goal.tistory.com/
 
 
 ## Project
@@ -23,7 +23,7 @@
 
 
 ### KT Cloud Tech up
-- 25.09 ~ 26.04(진행중)
+- 25.09 ~ 26.04
 - 뮤지컬 티켓팅, 아티스트 소통 플랫폼 **`truve`** 서버 개발
 - [Github](https://github.com/pain22value/back)
 - `java`, `spring`, `mysql`, `redis`, `kafka`
