@@ -2,7 +2,6 @@
 - 서울시립대학교 컴퓨터과학부 졸업 예정
 - skills: Java, Spring, Typescript, ReactJs
 - contact: kimdohyun032@gmail.com
-- blog: https://to-the-goal.tistory.com/
 
 
 ## Project
