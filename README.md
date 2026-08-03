@@ -46,12 +46,14 @@ THRASH AL 24th Guitar 🎸
 <p align="center">
   <a href="https://github.com/l-lyun">
     <img
+      width="45%"
       src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=l-lyun&show_icons=true&hide_border=true&rank_icon=github"
       alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/TOKENPHAGE">
     <img
+      width="45%"
       src="https://api.tokenphage.com/badge/l-lyun?theme=gpu&mode=light"
       alt="Tokenphage"
     />
