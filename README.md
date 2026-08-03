@@ -54,7 +54,9 @@ THRASH AL 24th Guitar 🎸
 <td>
 
 <img src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=l-lyun" />
-
+</td>
+<td>
+     [![Tokenphage](https://api.tokenphage.com/badge/<your-github-username>)](https://github.com/TOKENPHAGE)
 </td>
   </tbody>
 </table>
