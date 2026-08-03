@@ -5,7 +5,7 @@
 ## Experiences
 - UOSLIFE - 교내 앱 개발 동아리 (24.03 - 진행중)
 - SSAFY 16th (26.07 - 진행중)
-- kt cloud TECH UP 백엔드 과정 수강 (25.09 - 26.04)
+- kt cloud TECH UP 백엔드 과정 (25.09 - 26.04)
 - 42seoul (23.02 - 23.11)
 
 ## Project 
@@ -41,24 +41,21 @@ THRASH AL 24th Guitar 🎸
 - [YOUTUBE](https://www.youtube.com/watch?v=wh2rTudPcDs&ab_channel=ThrashAL)
 - 동대문구 대학 교류전 트로이카 1회 밴드 부문 우승
 - 2020 KT&G 상상유니브 집현전 밴드 부문 본선 진출
+## GitHub
 
-     
-## github
+<p align="center">
+  <a href="https://github.com/l-lyun">
+    <img
+      src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=l-lyun&show_icons=true&hide_border=true&rank_icon=github"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/TOKENPHAGE">
+    <img
+      src="https://api.tokenphage.com/badge/l-lyun?theme=gpu&mode=light"
+      alt="Tokenphage"
+    />
+  </a>
+</p>
 
-<div align=center>
 
-<table>
-  <tbody>
-        <tr>
-    <tr>
-<td>
-
-<img src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=l-lyun" />
-</td>
-<td>
-     [![Tokenphage](https://api.tokenphage.com/badge/<your-github-username>)](https://github.com/TOKENPHAGE)
-</td>
-  </tbody>
-</table>
-
-</div>
