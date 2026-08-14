@@ -1,5 +1,5 @@
 ## 김도현 (l-lyun)
-- 서울시립대학교 컴퓨터과학부 졸업 예정
+- 서울시립대학교 컴퓨터과학부(19.03 - 26.08)
 - contact: kimdohyun032@gmail.com
 
 ## Experiences
