@@ -13,7 +13,7 @@
 
 ## Experience
 - 서울시립대학교 컴퓨터과학부 졸업
-- SSAFY 16th(26.07 - 진행중)
+- SSAFY 16th (26.07 - 진행중)
 - kt cloud TECH UP 백엔드 과정 (25.09 - 26.04)
 - 42 Seoul (23.02 - 23.11)
 - [Thrash AL 24th Guitar](https://www.youtube.com/watch?v=wh2rTudPcDs)🎸
